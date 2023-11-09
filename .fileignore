@@ -1,3 +1,7 @@
 .fileignore
 .git
 .gitignore
+LICENSE
+README.md
+tracer.py
+CNAME
